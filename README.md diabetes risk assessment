@@ -1,0 +1,81 @@
+# Diabetes Risk Assessment Dashboard
+
+## 📌 Project Overview
+This project focuses on analyzing diabetes risk using lifestyle and clinical indicators.  
+The analysis was performed using data analytics techniques, with a strong emphasis on data modeling, visualization, and interpretability.
+
+The goal of the project is to identify patterns and high-risk groups associated with diabetic outcomes and to demonstrate the use of Power BI for health-related analytics.
+
+---
+
+## 🧰 Tools & Technologies
+- Microsoft Power BI
+- Power Query
+- Microsoft Word & PowerPoint (Documentation & Presentation)
+
+---
+
+## 📊 Dataset Description
+The dataset contains individual-level health and lifestyle attributes, including:
+- Glucose levels
+- Body Mass Index (BMI)
+- Daily calorie intake
+- Physical activity levels
+- Family history of diabetes
+- Diabetes outcome status (Diabetic / Non-Diabetic)
+
+---
+
+## 🗂️ Repository Contents
+
+| File | Description |
+|----|------------|
+| **diabetes_risk_dataset.xlsx** | Raw dataset used for analysis |
+| **diabetes risk dataset analysis.pbix** | Power BI dashboard file |
+| **Diabetes risk assessment Dashboard.docx** | Written project report |
+| **Diabetes_Risk_Assessment_Presentation.pptx** | Project presentation slides |
+
+---
+
+## 🧠 Data Modeling
+A star schema was implemented to ensure analytical accuracy and performance:
+- **Fact Table:** Health risk observations
+- **Dimension Tables:** Person, Glucose, BMI, Lifestyle, Outcome
+
+Single-direction, many-to-one relationships were used in Power BI to maintain model integrity.
+
+---
+
+## 📈 Dashboard Features
+- KPI card visuals summarizing key metrics
+- Lifestyle risk analysis (calories, physical activity, family history)
+- Clinical risk analysis (glucose levels, BMI)
+- Risk segmentation using combined attributes
+- Interactive filters and slicers
+- Clear distinction between modifiable and non-modifiable risk factors
+
+---
+
+## 🔍 Key Insights
+- Elevated glucose levels show the strongest association with diabetes
+- Higher BMI significantly increases diabetes risk
+- Low physical activity amplifies lifestyle-related risk
+- Family history increases susceptibility but does not determine outcome alone
+- Lifestyle factors remain critical and modifiable risk contributors
+
+---
+
+## ⚠️ Limitations
+This analysis is observational and does not imply causation.  
+The results depend on dataset assumptions and should not be interpreted as a medical diagnosis.
+
+---
+
+## 🎯 Conclusion
+The project demonstrates how data analytics and Power BI can be used to explore health risk patterns and support data-driven decision-making.  
+It highlights the importance of lifestyle modification in diabetes prevention strategies.
+
+---
+
+## 📬 Contact
+For questions, feedback, or collaboration opportunities, feel free to reach out via GitHub.
