@@ -1,0 +1,26 @@
+BMW-Global-Sales-Analytics/
+│
+├── README.md
+│
+├── data/
+│   ├── raw/
+│   │   └── bmw_global_sales_dataset.csv
+│
+├── powerbi/
+│   └── BMW_Global_Sales_analyzed.pbix
+│
+├── model/
+│   ├── star_schema.png
+│   └── data_model_description.md
+│
+├── dashboards/
+│   ├── dashboard_overview.png
+│   └── product_performance.png
+│
+├── reports/
+│   └── BMW_Global_Sales_Analytics_Presentation.pptx
+│
+├── insights/
+│   └── business_insights.md
+|- author 
+|    └── Caleb Some
