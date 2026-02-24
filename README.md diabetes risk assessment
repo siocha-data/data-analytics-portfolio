@@ -42,7 +42,7 @@ A star schema was implemented to ensure analytical accuracy and performance:
 - **Fact Table:** Health risk observations
 - **Dimension Tables:** Person, Glucose, BMI, Lifestyle, Outcome
 
-Single-direction, many-to-one relationships were used in Power BI to maintain model integrity.
+Single-direction, one-to-many relationships were used in Power BI to maintain model integrity.
 
 ---
 
