@@ -1,0 +1,32 @@
+airline-route-profitability-analysis/
+│
+├── data/
+│   ├── raw/
+│   │   └── airline_route_profitability_raw.csv
+│   └── processed/
+│       └── airline_route_profitability_clean.csv
+│
+├── power_query/
+│   ├── data_cleaning_steps.md
+│
+├── data_model/
+│   ├── star_schema_diagram.png
+│   └── dashboard visuals.png
+│
+├── power_bi/
+│   ├── airline_route_profitability.pbix
+│   └── dashboard_screenshots/
+│       ├── executive_overview.png
+│       ├── route_profitability.png
+│       ├── cost_analysis.png
+│       └── demand_utilization.png
+│
+├── presentation/
+│   └── airline_route_profitability_report.wrd
+│
+├── reports/
+│   ├── executive_summary.md
+│   └── 
+│
+├── README.md
+└── Caleb Siocha
